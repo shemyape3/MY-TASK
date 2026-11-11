@@ -1,9 +1,3 @@
-/**
- * The main driver class for the Campus Café Ordering System.
- *
- * @author Elijah Shem Yape & Kurt Andrey Ardosa 
- * @version 1.0
- */
 public class CafeApp {
 
     /**
